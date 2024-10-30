@@ -9,7 +9,7 @@
 ### Public Stats
 ![Cajango's GitHub stats](https://github-readme-stats.vercel.app/api?username=cajango-dev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cajango-dev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cajango-dev&layout=compact&theme=tokyonight)
 
 ##
 ### Tecnologias que eu utilizo atualmente:
