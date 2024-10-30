@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Fernando Cajango 👋
+### Hi! I'm Fernando Cajango 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cajango-725b48232/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernando_cajango/)
@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cajango-dev&layout=compact&theme=tokyonight)
 
 ##
-### Tecnologias que eu utilizo atualmente:
+### Technologies that i'm applying:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -24,4 +24,4 @@
 
 ##
 
-Computer Science student at UNICEUB - Brasília, 6th period. Currently interning at Austin Tech LTDA like Dev-Backend.
+Computer Science student at UNICEUB - Brasília, 6th period. Currently interning at Austin Tech LTDA like backend-dev.
