@@ -7,7 +7,7 @@
 
 ##
 ### This show only public stats:
-![Cajango's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cajangoo&show_icons=true&theme=tokyonight)
+![Cajango's GitHub stats](https://github-readme-stats.vercel.app/api?username=cajango-dev&show_icons=true&theme=tokyonight)
 
 
 ##
