@@ -24,4 +24,4 @@
 
 ##
 
-Computer Science student at UNICEUB - Brasília, 6th period. Currently interning at Austin Tech LTDA like backend-dev.
+Computer Science student at UNICEUB - Brasília, 7th period. Currently interning at Austin Tech LTDA like backend-dev.
