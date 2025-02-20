@@ -1,8 +1,8 @@
 
 ### Hi! I'm Fernando 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cajango-725b48232/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernando_cajango/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cajango-725b48232/)
+[![Instagram](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernando_cajango/)
 
 
 ##
